@@ -1,5 +1,3 @@
-let number =1;
-// while(number<=10){
+for(let number = 150; number<=170; number++){
 //     console.log(number);
-//     number++;
 // }
