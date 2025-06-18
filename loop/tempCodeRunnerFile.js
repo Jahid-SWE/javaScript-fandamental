@@ -1,5 +1,7 @@
-for(let numb =1; numb<=70; numb++){
-//     if(numb%3==0 && numb%5==0){
-//         console.log(numb);
+for(startNumber=1; startNumber<=40; startNumber++){
+    
+//     if(startNumber%7==0){
+//         continue;
 //     }
+//     console.log(startNumber);
 // }
