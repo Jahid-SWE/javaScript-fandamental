@@ -21,12 +21,12 @@ for (let i=0; i <= 20; i=i+2){
 
 
 // 5 dara bivajoo
-let sum= 0;
-for(let number = 1; number <=30; number=number+5 ){
-    // sum=sum+number;
-    console.log(number);
-}
-console.log(sum);
+// let sum= 0;
+// for(let number = 1; number <=30; number=number+5 ){
+//     // sum=sum+number;
+//     console.log(number);
+// }
+// console.log(sum);
 
 
 // 3 dara bivajjo
@@ -82,13 +82,13 @@ for(number = 40; number<=80; number++){
 
 
 // 3.  এখন তোর প্রবলেম হলো 1 থেকে 40 পর্যন্ত যে সকল সংখ্যা 13 দিয়ে বিভাজ্য, তাদের যোগফল কর।
-let sum=0
-for(let number = 1; number<=40; number++){
-    if(number%13==0){
-        sum=sum+number;
-    }
-}
-console.log(sum)
+// let sum=0
+// for(let number = 1; number<=40; number++){
+//     if(number%13==0){
+//         sum=sum+number;
+//     }
+// }
+// console.log(sum)
 
 
 // 4.  For লুপ দিয়ে 1 থেকে 50 পর্যন্ত লুপ চালাবি। তবে লুপ চালানোর সময় লুপ ভেরিয়েবলের মান প্রত্যেকবার 4 করে বাড়াবি।  important for me
