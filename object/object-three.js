@@ -21,3 +21,4 @@ const profile = {
 const profileKeys= Object.keys(profile);
 const hasName = profileKeys.includes('name');
 console.log(hasName);
+console.log(profileKeys);
